@@ -1,7 +1,7 @@
 {
 	"homepage": "https://gbaswath.github.io/fcc-be-develop-api",
 	"name": "fcc-learn-npm-package-json",
-	"author": {"name": "G B Aswath"},
+	"author": "G B Aswath",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
