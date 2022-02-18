@@ -1,2 +1,2 @@
 # Backend Challenges boilerplate - package.json
-[![Run on GitHub](https://github.com/gbaswath/fcc-be-develop-api)](https://github.com/gbaswath/fcc-be-develop-api)
+[![Run on GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/gbaswath/fcc-be-develop-api)
