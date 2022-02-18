@@ -7,7 +7,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"deploy": "gh-pages -d public",
+		"deploy": "gh-pages -d .",
 		"start": "node server.js"
 	},
 	"repository": {
