@@ -1,7 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "G B Aswath",
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://fcc-be-develop-api.gbaswath.repl.co)",
+  "description": "Free Code Camp Back End API Project",
+  "keywords": ["freecodecamp", "backend", "api", "challenge", "project"],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -17,6 +18,5 @@
   "devDependencies": {
     "node": "^16.13.2"
   },
-  "keywords": [],
   "license": "ISC"
 }
