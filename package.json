@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "G B Aswath",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://fcc-be-develop-api.gbaswath.repl.co)",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -12,7 +13,6 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://fcc-be-develop-api.gbaswath.repl.co)",
   "version": "1.0.0",
   "devDependencies": {
     "node": "^16.13.2"
