@@ -3,6 +3,8 @@
   "author": "G B Aswath",
   "description": "Free Code Camp Back End API Project",
   "keywords": ["freecodecamp", "backend", "api", "challenge", "project"],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -14,9 +16,7 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "version": "1.0.0",
   "devDependencies": {
     "node": "^16.13.2"
-  },
-  "license": "MIT"
+  }
 }
