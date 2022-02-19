@@ -1,20 +1,22 @@
 {
-	"homepage": "https://gbaswath.github.io/fcc-be-develop-api",
-	"name": "fcc-learn-npm-package-json",
-	"author": "G B Aswath",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"deploy": "gh-pages -d .",
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	},
-	"devDependencies": {
-		"gh-pages": "^3.2.3"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "G B Aswath",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://fcc-be-develop-api.gbaswath.repl.co)",
+  "version": "1.0.0",
+  "devDependencies": {
+    "node": "^16.13.2"
+  },
+  "keywords": [],
+  "license": "ISC"
 }
